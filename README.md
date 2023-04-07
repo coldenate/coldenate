@@ -36,7 +36,7 @@ I'm Nate!
 | Contact | Response Rating x/5 | Notes |
 | --- | --- | --- |
 | <a href="mailto:airship.magical_0a@icloud.com?&subject=Inquiry &body=Hello! I emailed you! :) Hello from the mailto: tag!">Email</a> | 5 | I will get your email! |
-| <a href="https://discord.com/users/338107857486610433">Discord!</a> | 3.4 | I don't have dms enabled, so please use the message request feature! |
+| <a href="https://discord.com/users/338107857486610433">Discord!</a> | 3.14159265 | I don't have dms enabled, so please use the message request feature! |
 
 ## Badges and more
 <!-- &bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
