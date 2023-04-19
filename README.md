@@ -16,6 +16,7 @@ I'm Nate!
 - 🏗️ I’m working on my **portfolio**
 - 🧠 I try to keep an open mind, feel free to give pieces of your mind anytime! 😅
 - 🎨 I have fallen in ~~love~~ with **[catppuccin](https://github.com/catppuccin)**, and I am using it for this readme.
+- 🌎 When reaching out, please don't worry about language differences!! I'm happy to translate your preferred language :)
 
 ## Current Projects
 
