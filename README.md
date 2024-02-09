@@ -13,7 +13,7 @@
 | Contact | Response Rating x/5 | 
 | --- | --- |
 | <a href="mailto:airship.magical_0a@icloud.com?&subject=Inquiry &body=Hello! I emailed you! :) Hello from the mailto: tag!">Email</a> | 5 |
-| <a href="https://discord.com/users/338107857486610433">Discord!</a> | 3.14159265 |
+| <a href="https://discord.com/users/338107857486610433">Discord!</a> | 3.14159265 (preferred, if possible) |
 
 > [!NOTE]
 > Feel free to share your thoughts anytime, contributing to our collective reservoir of wisdom. Don't worry about language differences when reaching out — I'm happy to translate into your preferred language. :)
