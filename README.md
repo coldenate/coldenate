@@ -1,5 +1,5 @@
 ## 🫡 Hi! I'm Nate.
-> My motivation is sustained by the fragile strands of a fragmented and philosophically entropic framework. Yet, I still, for some reason, enjoy Splatoon. 🤦‍♂️
+>  the worm in my mind says hii 👋
 
 ## About me
 
