@@ -6,7 +6,7 @@
 - 📚 I’m currently learning **Typescript - then Rust** 
 - 🇺🇸 I am based in **Texas, USA** 
 - 💻 I recently started working at **RemNote** 
-- 🏗️ I’m working on a bunch of things at once - not exactly ideal. 
+- 🏗️ I believe in project-based learning. AMA about a project I've done!
 
 ## Contact Me
 
