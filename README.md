@@ -15,5 +15,3 @@
 | <a href="https://discord.com/users/338107857486610433">Discord</a> | ⭐️⭐️⭐️ |
 | <a href="mailto:contact@natesolis.com?&subject=Inquiry &body=Hello! I emailed you! :) Hello from the mailto: tag!">Email</a> | ⭐️⭐️⭐️⭐️⭐️ |
 
-> [!NOTE]
-> Feel free to share your thoughts anytime, contributing to our collective reservoir of wisdom. Don't worry about language differences when reaching out — I'm happy to translate into your preferred language. :)
